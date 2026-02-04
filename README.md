@@ -26,10 +26,3 @@ This portfolio showcases my journey, including:
 * **Inventory & POS System:** A full-stack solution with RBAC and transaction tracking.
 * **EcoScan:** An academic project for sustainable waste analysis.
 * **Professional Certification:** BNSP Certified Junior Programmer.
-
----
-
-## Credits & License 📄
-This portfolio is based on the [Developer Portfolio Template](https://github.com/varadbhogayata/varadbhogayata.github.io) created by **Varad Bhogayata**.
-
-Licensed under the MIT License.
